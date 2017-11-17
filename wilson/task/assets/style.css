@@ -1,0 +1,23 @@
+
+
+table{
+
+	background-color:white;
+	border: solid;
+	border-color: blue;
+}
+
+td{
+	border: solid 1px;
+	border-color: blue;
+	padding: 4px;
+	padding-right: 8px;
+	padding-bottom: 9px;
+}
+
+.mark{
+	text-align: center;
+
+}
+}
+.
