@@ -1,0 +1,25 @@
+table{
+	border-style: solid;
+	border-width: 2px;
+	border-color: #000080;
+}
+th,td,tr{
+	border-style: double;
+	border-width: 1px;
+	border-color: #0000ff;
+	width: 50px;
+}
+td{
+	padding: 5px;
+}
+.Empno{
+	text-align: center;
+	font-weight: bold;
+}
+.Marks{
+	text-align: center;
+	font-weight: bold;
+}
+.Sec{
+	text-align: center;
+}

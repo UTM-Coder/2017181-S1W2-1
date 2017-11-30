@@ -1,0 +1,64 @@
+table{
+	border-width: 1px
+}
+td{
+	padding: 10px;
+}
+.Welcome{
+	color: #0000ff;
+	font-size: 20px;
+	font-weight: bold; 
+	width:406px;
+	background-color: #666666;
+}
+.Homepage{
+	color:#0000ff;
+	font-size: 10px;
+	width:406px;
+	background-color: #666666;
+}
+.Pagess{
+	width:100px;
+}
+.Pages{
+	height:15px;
+	width:100px;
+	background-color: #666666;
+}
+.Page{
+	font-size: 12px
+	height:15px;
+	width:100px;
+	background-color: #0000ff;
+}
+.Title{
+	font-size: 20px;
+	font-weight: bold;
+	width:200px;
+	background-color: #666666;
+}
+.Content{
+	font-size: 12px;
+	background-color: #666666;
+}
+.Topic{
+	font-size: 15px;
+	font-weight: bold;
+	background-color: #666666;
+}
+.Detail{
+	font-size: 12px;
+	height: 400px;
+	background-color: #666666;
+}
+.Bar{
+	font-size: 15px;
+	font-weight: bold;
+	width:100px;
+	background-color: #666666;
+}
+.Test{
+	font-size: 12px;
+	height:400px;
+	background-color: #666666;
+}
