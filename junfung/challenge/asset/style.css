@@ -1,0 +1,46 @@
+body{
+	font-family: arial;
+}
+table{
+	vertical-align: top;
+	text-align: left;
+}
+th{
+	background-color: green;
+	padding:10px;
+	line-height: 0px;
+}
+td{
+	vertical-align: top;
+}
+.header{
+	color:white;
+}
+.task{
+	font-size: 15px;
+}
+.stylesheets{
+	width: 150px;
+}
+.stylesheet1{
+	width: 150px;
+	background-color: green;
+	color:white;
+}
+.stylesheet{
+	width: 150px;
+	background-color: grey;
+}
+.content{
+	width: 300px;
+	padding: 10px;
+}
+.side{
+	width: 150px;
+	background-color: blue;
+	color:white;
+	padding: 10px;
+}
+.head{
+	font-weight: bold;
+}
