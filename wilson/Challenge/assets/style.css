@@ -1,0 +1,65 @@
+body{
+background-color: #ADFF2F;
+	
+}
+.sec1{
+
+	color : #C0C0C0 ;
+	background-color: grey;
+	border: solid 5px;
+	border-color: #556B2F;
+	
+}
+
+
+.smalltable{
+	margin-top: 0.2cm ;
+	color : white ;
+	border-color: #556B2F;
+	
+	border: solid 5px;
+	
+	
+}
+
+.er{
+	border-color: #556B2F;
+	margin-top: 0.2cm ;
+	color : white ;
+
+	border: solid 5px;
+	
+	padding: 40px;
+	padding-right: 90px;
+	padding-bottom: 9px;
+
+}
+
+
+	
+
+.center{
+
+	color : white ;
+	text-decoration-color: white;
+	border: solid 5px;
+	border-color: #556B2F;
+	padding: 40px;
+	padding-right: 90px;
+	padding-bottom: 9px;
+	
+}
+
+.right{
+	margin-top:;
+	color : white ;
+	border: solid 2px;
+	border-color: #556B2F;
+		padding-left: : 190px;
+	
+
+	
+	
+
+}
+
